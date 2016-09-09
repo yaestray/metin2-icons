@@ -1,0 +1,12 @@
+%%f
+$WINDOWS.~BT 
+adt-bundle-windows-x86_64-20131030 
+HashiCorp 
+Intel 
+PerfLogs 
+Program 
+Program 
+remixos_install.log 
+Users 
+Windows 
+Windows.old 
