@@ -8,6 +8,6 @@ FOR /r sorted_icons %%g IN (*.png) DO (
 	SET "relPath=!absPath:~%len%!"
 	SET "relPath=!relPath:\=/!"
 	SET "relPath=!relPath:sorted_icons/=!"
-	echo(!relPath! >>sorted_icons.txt
+	echo(!relPath!>>sorted_icons.txt
 	ENDLOCAL
 )
