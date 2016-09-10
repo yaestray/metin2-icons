@@ -1901,4 +1901,3 @@ scroll_open.png
 shy.png
 slot_disabled.png
 slot_normal.png
-unsorted_icons.txt
