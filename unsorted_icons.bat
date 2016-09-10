@@ -1,2 +1,2 @@
-break > unsorted_icons.txt
-for /f %%f in ('dir /b unsorted_icons') do echo %%f>>unsorted_icons.txt
+BREAK > unsorted_icons.txt
+FOR /f %%f IN ('dir /b unsorted_icons') DO echo %%f>>unsorted_icons.txt
