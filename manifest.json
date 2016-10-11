@@ -1,0 +1,9891 @@
+{
+	"swords": {
+		"name": {
+			"ru": "Одноручные мечи"
+		},
+		"icons": {
+			"00010": {
+				"names": {
+					"ru": [
+						"Меч"
+					],
+					"en": [
+						"Sword"
+					]
+				},
+				"width": 32,
+				"height": 64
+			},
+			"00020": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"00030": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"00040": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"00050": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"00060": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"00070": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"00080": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"00090": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"00100": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"00110": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"00120": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"00130": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"00140": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"00150": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"00160": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"00170": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"00180": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"00190": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"00200": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"00210": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"00220": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"00230": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"00240": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"00250": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"00260": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"00270": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"00280": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"00290": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"00300": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"00460": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"00470": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			}
+		}
+	},
+	"greatswords": {
+		"name": {
+			"ru": "Двуручные мечи"
+		},
+		"icons": {
+			"03000": {
+				"names": {},
+				"width": 32,
+				"height": 96
+			},
+			"03010": {
+				"names": {},
+				"width": 32,
+				"height": 96
+			},
+			"03020": {
+				"names": {},
+				"width": 32,
+				"height": 96
+			},
+			"03030": {
+				"names": {},
+				"width": 32,
+				"height": 96
+			},
+			"03040": {
+				"names": {},
+				"width": 32,
+				"height": 96
+			},
+			"03050": {
+				"names": {},
+				"width": 32,
+				"height": 96
+			},
+			"03060": {
+				"names": {},
+				"width": 32,
+				"height": 96
+			},
+			"03070": {
+				"names": {},
+				"width": 32,
+				"height": 96
+			},
+			"03080": {
+				"names": {},
+				"width": 32,
+				"height": 96
+			},
+			"03090": {
+				"names": {},
+				"width": 32,
+				"height": 96
+			},
+			"03100": {
+				"names": {},
+				"width": 32,
+				"height": 96
+			},
+			"03110": {
+				"names": {},
+				"width": 32,
+				"height": 96
+			},
+			"03120": {
+				"names": {},
+				"width": 32,
+				"height": 96
+			},
+			"03130": {
+				"names": {},
+				"width": 32,
+				"height": 96
+			},
+			"03140": {
+				"names": {},
+				"width": 32,
+				"height": 96
+			},
+			"03150": {
+				"names": {},
+				"width": 32,
+				"height": 96
+			},
+			"03160": {
+				"names": {},
+				"width": 32,
+				"height": 96
+			},
+			"03170": {
+				"names": {},
+				"width": 32,
+				"height": 96
+			},
+			"03180": {
+				"names": {},
+				"width": 32,
+				"height": 96
+			},
+			"03190": {
+				"names": {},
+				"width": 32,
+				"height": 96
+			},
+			"03200": {
+				"names": {},
+				"width": 32,
+				"height": 96
+			},
+			"03210": {
+				"names": {
+					"ru": [
+						"Клинок из красн.желез",
+						"Клинок из красного железа",
+						"ККЖ"
+					],
+					"en": [
+						"Red Iron Blade",
+						"RIB"
+					]
+				},
+				"width": 32,
+				"height": 96
+			},
+			"03220": {
+				"names": {},
+				"width": 32,
+				"height": 96
+			},
+			"30175": {
+				"names": {},
+				"width": 32,
+				"height": 96
+			}
+		}
+	},
+	"daggers": {
+		"name": {
+			"ru": "Кинжалы"
+		},
+		"icons": {
+			"01000": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"01010": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"01020": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"01030": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"01040": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"01050": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"01060": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"01070": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"01080": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"01090": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"01100": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"01110": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"01120": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"01130": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"01140": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"01150": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"01160": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"01170": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"01180": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"01340": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"04000": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"04010": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"04020": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"04030": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"04040": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			}
+		}
+	},
+	"bows": {
+		"name": {
+			"ru": "Луки"
+		},
+		"icons": {
+			"02000": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"02010": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"02020": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"02030": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"02040": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"02050": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"02060": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"02070": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"02080": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"02090": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"02100": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"02110": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"02120": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"02130": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"02140": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"02150": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"02160": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"02170": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"02180": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"02190": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"02370": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"30136": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			}
+		}
+	},
+	"bells": {
+		"name": {
+			"ru": "Колокольчики"
+		},
+		"icons": {
+			"05000": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"05010": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"05020": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"05030": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"05040": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"05050": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"05060": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"05070": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"05080": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"05090": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"05100": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"05110": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"05120": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"05130": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"05140": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"05150": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"05330": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"05340": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			}
+		}
+	},
+	"fans": {
+		"name": {
+			"ru": "Вееры"
+		},
+		"icons": {
+			"07000": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"07010": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"07020": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"07030": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"07040": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"07050": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"07060": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"07070": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"07080": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"07090": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"07100": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"07110": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"07120": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"07130": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"07140": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"07150": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"07160": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"07170": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"07180": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"07190": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"07370": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			}
+		}
+	},
+	"claws": {
+		"name": {
+			"ru": "Когти"
+		},
+		"icons": {
+			"06000": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"06010": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"06020": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"06030": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"06040": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"06050": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"06060": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"06070": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"06080": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"06090": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			}
+		}
+	},
+	"arrows": {
+		"name": {
+			"ru": "Стрелы для лука"
+		},
+		"icons": {
+			"08000": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"08001": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"08002": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"08003": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"08004": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"08005": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"08006": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"08007": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"08008": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"08009": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			}
+		}
+	},
+	"special_equipment": {
+		"name": {
+			"ru": "Специальное снаряжение"
+		},
+		"icons": {
+			"27400": {
+				"names": {},
+				"width": 32,
+				"height": 96
+			},
+			"29101": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			}
+		}
+	},
+	"armor_warrior": {
+		"name": {
+			"ru": "Броня (воин)"
+		},
+		"icons": {
+			"11200": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11210": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11220": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11230": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11240": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11250": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11260": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11270": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11280": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11290": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11300": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11301": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11302": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11303": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11304": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11305": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11306": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11307": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11971": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11979": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"12020": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"20000": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			}
+		}
+	},
+	"armor_assassin": {
+		"name": {
+			"ru": "Броня (ниндзя)"
+		},
+		"icons": {
+			"11400": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11410": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11420": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11430": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11440": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11450": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11460": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11470": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11480": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11490": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11500": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11501": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11502": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11503": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11504": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11505": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11506": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11507": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11971_": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11972": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11972_": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11981": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"12030": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"20250": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			}
+		}
+	},
+	"armor_sura": {
+		"name": {
+			"ru": "Броня (сура)"
+		},
+		"icons": {
+			"11600": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11610": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11620": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11630": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11640": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11650": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11660": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11670": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11680": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11690": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11700": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11701": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11702": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11703": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11704": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11705": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11706": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11707": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11708": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11973": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11980": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"12010": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"20750": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			}
+		}
+	},
+	"armor_shaman": {
+		"name": {
+			"ru": "Броня (шаман)"
+		},
+		"icons": {
+			"11800": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11810": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11820": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11830": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11840": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11850": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11860": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11870": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11880": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11890": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11974": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11982": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"12000": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"12001": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"12002": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"12003": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"12004": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"12005": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"12006": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"12007": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"12040": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"20500": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			}
+		}
+	},
+	"armor_lycan": {
+		"name": {
+			"ru": "Броня (ликан)"
+		},
+		"icons": {
+			"21000": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"21010": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"21020": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"21030": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"21040": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"21050": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"21060": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"21070": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"21080": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"21090": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			}
+		}
+	},
+	"armor_special": {
+		"name": {
+			"ru": "Специальная броня"
+		},
+		"icons": {
+			"11901": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11902": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11903": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11915": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11916": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"11917": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			}
+		}
+	},
+	"outfits": {
+		"name": {
+			"ru": "Костюмы"
+		},
+		"icons": {
+			"41001": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41002": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41003": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41004": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41005": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41006": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41007": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41008": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41009": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41010": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41011": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41012": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41013": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41014": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41015": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41016": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41017": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41018": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41019": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41020": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41021": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41022": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41023": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41024": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41025": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41026": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41027": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41028": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41055": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41056": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41057": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41058": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41059": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41060": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41061": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41062": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41063": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41064": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41065": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41066": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41067": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41068": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41069": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41070": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41071": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41072": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41073": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41074": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41075": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41076": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41077": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41078": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41079": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41080": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41081": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41082": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41083": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41084": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41117": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41118": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41119": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41120": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41121": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41122": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41125": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41126": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41137": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41138": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41139": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41140": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41141": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41142": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41143": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41144": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41153": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41154": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41155": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41156": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41157": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41158": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41159": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41160": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41161": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41162": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41163": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41164": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41165": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41166": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41167": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41168": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41169": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41170": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41171": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41172": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41173": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41174": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41175": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41176": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41177": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41178": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41179": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41180": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41181": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41182": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41183": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41184": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41185": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41186": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41187": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41188": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41189": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41190": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41191": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41192": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41193": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41194": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41195": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41196": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41197": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41198": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41199": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41200": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41201": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41202": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41203": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41204": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41205": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41206": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41207": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41208": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41209": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41210": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41211": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41212": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41213": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41214": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41215": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41216": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41324": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41325": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41328": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41329": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41330": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41331": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41332": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41333": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41334": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41335": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41336": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41337": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41338": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41339": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41340": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41341": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41342": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41343": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41344": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41345": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41346": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41347": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41348": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41349": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41350": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41351": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41352": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41353": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41354": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41355": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41356": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41357": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41358": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41359": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41360": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41361": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41362": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41363": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41364": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41365": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41366": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41367": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41368": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41369": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41370": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41371": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41372": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41373": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41374": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41375": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41376": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41377": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41378": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41379": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41380": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41381": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41382": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41383": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41384": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41385": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41386": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41387": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41388": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41389": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41390": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41391": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41472": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41473": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41476": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41477": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41480": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41481": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41482": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"41483": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			}
+		}
+	},
+	"helmets_warrior": {
+		"name": {
+			"ru": "Шлемы (воин)"
+		},
+		"icons": {
+			"12200": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"12220": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"12240": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"12260": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"12280": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			}
+		}
+	},
+	"helmets_assassin": {
+		"name": {
+			"ru": "Шлемы (ниндзя)"
+		},
+		"icons": {
+			"12340": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"12360": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"12380": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"12390": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"12400": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			}
+		}
+	},
+	"helmets_sura": {
+		"name": {
+			"ru": "Шлемы (сура)"
+		},
+		"icons": {
+			"12480": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"12500": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"12520": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"12530": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"12540": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			}
+		}
+	},
+	"helmets_shaman": {
+		"name": {
+			"ru": "Шлемы (шаман)"
+		},
+		"icons": {
+			"12620": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"12640": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"12660": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"12670": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"12680": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			}
+		}
+	},
+	"helmets_lycan": {
+		"name": {
+			"ru": "Шлемы (ликан)"
+		},
+		"icons": {
+			"21500": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"21510": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"21520": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"21530": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"21540": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"21550": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			}
+		}
+	},
+	"helmets_other": {
+		"name": {
+			"ru": "Универсальные шлемы"
+		},
+		"icons": {
+			"11975": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			}
+		}
+	},
+	"hairstyles__hats": {
+		"name": {
+			"ru": "Прически и головные уборы"
+		},
+		"icons": {
+			"45001": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"45002": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"45003": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"45004": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"45005": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"45006": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"45007": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"45008": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"45009": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"45010": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"45053": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"45054": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"45055": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"45056": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"45057": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"45058": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"45061": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"45062": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"45075": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"45076": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"45077": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"45078": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"45079": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"45080": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"45087": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"45088": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"45089": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"45090": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"45091": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"45092": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"45093": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"45094": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"45095": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"45096": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"45160": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"45161": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"45164": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"45165": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"45166": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"45170": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"45171": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"45174": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"45175": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"45176": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"45177": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			}
+		}
+	},
+	"boots": {
+		"name": {
+			"ru": "Обувь"
+		},
+		"icons": {
+			"11977": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"15000": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"15020": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"15040": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"15060": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"15080": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"15100": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"15120": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"15140": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"15160": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"15180": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"15200": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"15220": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"15240": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"15370": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"15390": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"15410": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"15430": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30133": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"72701": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			}
+		}
+	},
+	"shields": {
+		"name": {
+			"ru": "Щиты"
+		},
+		"icons": {
+			"11976": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"13000": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"13020": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"13021": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"13040": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"13060": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"13080": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"13100": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"13120": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"13140": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"13160": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			}
+		}
+	},
+	"belts": {
+		"name": {
+			"ru": "Поясы"
+		},
+		"icons": {
+			"18000": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"18010": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"18020": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"18030": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"18040": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"18050": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"18060": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"18070": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"18080": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"18090": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30548": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30549": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30550": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30551": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30552": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30553": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			}
+		}
+	},
+	"earrings": {
+		"name": {
+			"ru": "Серьги"
+		},
+		"icons": {
+			"17000": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"17020": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"17040": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"17060": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"17080": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"17100": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"17120": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"17140": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"17160": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"17180": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"17200": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"17220": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"17500": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"17520": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"17540": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"17560": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70018": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71069": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71071": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"72703": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"72704": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			}
+		}
+	},
+	"necklaces": {
+		"name": {
+			"ru": "Ожерелья"
+		},
+		"icons": {
+			"16000": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"16020": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"16040": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"16060": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"16080": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"16100": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"16120": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"16140": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"16160": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"16180": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"16200": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"16220": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"16500": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"16520": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"16540": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"16560": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"16570": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70019": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71072": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71073": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71074": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71145": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"72707": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"72708": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			}
+		}
+	},
+	"armbands": {
+		"name": {
+			"ru": "Браслеты"
+		},
+		"icons": {
+			"11978": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"14000": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"14020": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"14040": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"14060": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"14080": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"14100": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"14120": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"14140": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"14160": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"14180": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"14200": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"14220": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"14500": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"14520": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"14540": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"14560": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"14570": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30521": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30542": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30543": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30544": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30545": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30546": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30547": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70017": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71070": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"72705": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"72706": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			}
+		}
+	},
+	"rings": {
+		"name": {
+			"ru": "Кольца"
+		},
+		"icons": {
+			"30101": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30526": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30527": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30528": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30529": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30530": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30531": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30532": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30533": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30534": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30535": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30536": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30537": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30538": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30539": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30540": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30541": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"40001": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"40002": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"40003": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"40004": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50002": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70005": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70006": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70007": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70025": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70049": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70058": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70301": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70302": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71130": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71143": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71148": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71149": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"72049": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"72501": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"80009": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			}
+		}
+	},
+	"books": {
+		"name": {
+			"ru": "Книги"
+		},
+		"icons": {
+			"27620": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30008": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30047": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30132": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30135": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30147": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30154": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30156": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30160": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30182": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50053": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50061": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50322": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50323": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50324": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50325": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50326": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50902": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50903": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50904": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"69200": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"69201": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70003": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70037": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71008": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71021": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71022": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71048": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71094": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"76011": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"book_01": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"book_02": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"book_03": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"book_04": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"book_05": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"book_06": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"book_07": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"book_08": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"book_11": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"book_12": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"book_13": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"book_14": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"book_15": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"book_16": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"book_17": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"book_18": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"book_19": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"book_21": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"book_22": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"book_23": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"book_24": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"book_25": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"book_26": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"book_31": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"book_32": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"book_33": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"book_34": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"book_35": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"book_36": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"book_41": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"book_42": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"book_43": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"book_44": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"book_45": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			}
+		}
+	},
+	"bags": {
+		"name": {
+			"ru": "Сумки и мешочки"
+		},
+		"icons": {
+			"27999": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30093": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30094": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30095": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30096": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30134": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30318": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31037": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31038": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31039": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31050": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31083": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50023": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50198": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50200": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71049": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			}
+		}
+	},
+	"cards": {
+		"name": {
+			"ru": "Карточки"
+		},
+		"icons": {
+			"50083": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70027": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"73001": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"73251": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"73501": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"73751": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"73787": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			}
+		}
+	},
+	"coins__medals__sigils": {
+		"name": {
+			"ru": "Монеты, медали и печати"
+		},
+		"icons": {
+			"30178": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30179": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30180": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31040": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31071": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50050": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50063": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50064": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50065": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50084": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"53001": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"53002": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"53003": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"53005": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"53006": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"53008": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"53023": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"53026": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"53222": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"53223": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"53224": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"53225": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"60003": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70004": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70050": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70059": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70060": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70061": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70062": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71004": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71017": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71036": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71114": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71115": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71117": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71119": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71121": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71124": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71125": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71126": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71127": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71128": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71131": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71137": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71138": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71139": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71140": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71141": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71142": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71158": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71161": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"76008": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"money": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			}
+		}
+	},
+	"containers": {
+		"name": {
+			"ru": "Сундуки и контейнеры"
+		},
+		"icons": {
+			"30300": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31067": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"38050": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"39044": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"39045": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50006": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50007": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50011": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50033": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50034": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50035": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50036": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50037": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50109": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50110": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50111": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50112": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50113": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50114": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50115": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50124": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50125": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50127": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50128": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50129": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50130": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50131": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50132": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50133": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50134": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50135": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50136": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50137": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50180": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50181": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50182": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50187": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50197": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50215": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50217": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50244": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50245": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50253": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"51639": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"51640": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"51641": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"51642": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"51643": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"53501": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70009": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71009": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71144": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71146": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71147": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71162": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71163": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"78001": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"78201": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"78401": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"78601": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"78801": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"boss_box": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			}
+		}
+	},
+	"keys": {
+		"name": {
+			"ru": "Ключи"
+		},
+		"icons": {
+			"30303": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30304": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30311": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30331": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30333": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50008": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50009": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50150": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50151": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50152": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50153": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50154": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50155": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50156": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			}
+		}
+	},
+	"dragon_alchemy": {
+		"name": {
+			"ru": "Алхимия дракона"
+		},
+		"icons": {
+			"110000": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"110100": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"110200": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"110300": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"110400": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"111000": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"111100": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"111200": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"111300": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"111400": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"112000": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"112100": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"112200": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"112300": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"112400": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"113000": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"113100": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"113200": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"113300": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"113400": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"114000": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"114100": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"114200": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"114300": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"114400": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"120000": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"120100": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"120200": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"120300": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"120400": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"121000": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"121100": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"121200": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"121300": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"121400": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"122000": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"122100": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"122200": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"122300": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"122400": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"123000": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"123100": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"123200": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"123300": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"123400": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"124000": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"124100": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"124200": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"124300": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"124400": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"130000": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"130100": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"130200": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"130300": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"130400": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"131000": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"131100": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"131200": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"131300": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"131400": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"132000": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"132100": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"132200": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"132300": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"132400": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"133000": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"133100": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"133200": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"133300": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"133400": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"134000": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"134100": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"134200": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"134300": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"134400": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"140000": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"140100": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"140200": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"140300": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"140400": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"141000": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"141100": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"141200": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"141300": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"141400": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"142000": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"142100": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"142200": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"142300": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"142400": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"143000": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"143100": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"143200": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"143300": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"143400": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"144000": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"144100": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"144200": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"144300": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"144400": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"150000": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"150100": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"150200": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"150300": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"150400": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"151000": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"151100": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"151200": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"151300": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"151400": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"152000": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"152100": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"152200": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"152300": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"152400": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"153000": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"153100": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"153200": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"153300": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"153400": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"154000": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"154100": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"154200": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"154300": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"154400": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"160000": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"160100": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"160200": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"160300": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"160400": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"161000": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"161100": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"161200": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"161300": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"161400": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"162000": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"162100": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"162200": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"162300": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"162400": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"163000": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"163100": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"163200": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"163300": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"163400": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"164000": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"164100": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"164200": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"164300": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"164400": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			}
+		}
+	},
+	"dust__spice": {
+		"name": {
+			"ru": "Порошки"
+		},
+		"icons": {
+			"30009": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30063": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30138": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30184": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30195": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31001": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31007": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31019": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31044": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31045": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31077": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31086": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"51647": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"51648": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"51649": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"51650": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"51651": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71110": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			}
+		}
+	},
+	"easter_eggs": {
+		"name": {
+			"ru": "Пасхальные яйца"
+		},
+		"icons": {
+			"50160": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50161": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50162": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50163": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50164": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50165": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50166": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50167": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50168": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50169": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50170": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50171": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50172": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50173": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50174": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50175": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50176": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50177": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50178": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50179": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71150": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			}
+		}
+	},
+	"fish": {
+		"name": {
+			"ru": "Рыба"
+		},
+		"icons": {
+			"27802": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27803": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27804": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27805": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27806": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27807": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27808": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27809": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27810": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27811": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27812": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27813": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27814": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27815": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27816": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27817": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27818": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27819": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27820": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27821": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27822": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27823": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27833": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27834": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27835": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27836": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27837": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27838": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27839": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27840": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27841": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27842": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27843": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27844": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27845": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27846": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27847": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27848": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27849": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27850": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27851": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27852": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27853": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27863": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27864": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27865": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27866": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27867": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27868": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27869": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27870": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27871": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27872": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27873": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27874": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27875": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27876": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27877": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27878": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27879": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27880": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27881": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27882": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27883": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			}
+		}
+	},
+	"food": {
+		"name": {
+			"ru": "Еда"
+		},
+		"icons": {
+			"30002": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30068": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30149": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30158": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30205": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30315": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30317": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30326": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31063": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31078": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31087": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31091": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50015": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50016": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50017": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50018": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50019": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50020": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50021": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50022": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50025": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50032": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50086": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50087": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50088": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50091": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50092": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50093": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50094": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50123": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50183": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70014": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70102": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71136": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71180": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71181": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			}
+		}
+	},
+	"ore__gemstones__shinies": {
+		"name": {
+			"ru": "Руда, рафинад и драгоценности"
+		},
+		"icons": {
+			"27992": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27993": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27994": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30016": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30021": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30064": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30141": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30146": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30185": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30186": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30188": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30190": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30196": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30198": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30199": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30203": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30204": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30210": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30211": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30212": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30213": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30214": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30215": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30216": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30217": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30218": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30219": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30220": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30221": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30222": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30223": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30224": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30225": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30226": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30227": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30228": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30229": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30251": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30252": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30253": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30254": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30258": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30259": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30260": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30261": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30262": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30263": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30264": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30270": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30324": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31005": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31006": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31008": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31018": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31026": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31029": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31030": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31035": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31062": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31081": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31085": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31089": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31093": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31094": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"38051": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50255": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50256": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50257": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50258": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50259": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50513": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50526": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50601": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50602": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50603": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50604": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50605": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50606": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50607": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50608": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50609": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50610": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50611": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50612": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50613": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50614": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50615": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50616": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50617": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50618": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50619": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50621": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50622": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50623": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50624": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50625": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50626": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50627": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50628": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50629": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50630": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50631": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50632": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50633": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50634": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50635": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50636": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50637": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50638": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50639": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"51001": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"51002": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"51003": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"51501": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"51505": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"51506": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"51517": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"51518": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"51519": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"51520": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"51521": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"51522": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"51548": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"51550": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"51551": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"51552": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"51553": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"51554": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"51555": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"51569": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"51570": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"51571": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"51572": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"51573": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"51574": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"51575": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70035": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71025": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71056": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"76010": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"80003": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"80004": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"80005": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"80006": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"80007": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"80008": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			}
+		}
+	},
+	"stones": {
+		"name": {
+			"ru": "Камни"
+		},
+		"icons": {
+			"18900": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27990": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27991": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31028": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"90010": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			}
+		}
+	},
+	"soulstones": {
+		"name": {
+			"ru": "Камни духа"
+		},
+		"icons": {
+			"28000": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"28001": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"28002": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"28003": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"28004": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"28005": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"28006": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"28007": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"28008": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"28009": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"28010": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"28011": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"28012": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"28013": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"28112": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"28960": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			}
+		}
+	},
+	"organs": {
+		"name": {
+			"ru": "Части живых существ"
+		},
+		"icons": {
+			"27799": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30003": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30004": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30006": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30010": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30014": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30022": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30023": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30024": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30025": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30026": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30027": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30028": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30029": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30037": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30038": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30042": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30045": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30046": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30053": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30055": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30056": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30057": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30058": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30059": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30060": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30061": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30067": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30092": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30116": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30139": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30144": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30151": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30173": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30176": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30193": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30202": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31053": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31057": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31061": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"60001": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70022": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70042": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71068": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71123": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71129": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			}
+		}
+	},
+	"plants": {
+		"name": {
+			"ru": "Растения"
+		},
+		"icons": {
+			"30000": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30036": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30040": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30043": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30066": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30143": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30153": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30165": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30167": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30169": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30170": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30171": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30172": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30197": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31052": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31064": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31066": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31076": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50024": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50031": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50054": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50055": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50056": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50058": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50059": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50095": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50201": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50701": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50702": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50703": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50704": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50705": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50706": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50707": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50708": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50709": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50710": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50711": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50712": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70251": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70252": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70253": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70254": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71107": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			}
+		}
+	},
+	"potions__bottles": {
+		"name": {
+			"ru": "Зелья и сосуды"
+		},
+		"icons": {
+			"100000": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"100001": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"100002": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27001": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27002": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27003": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27004": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27005": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27006": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27100": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27101": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27102": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27103": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27104": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27105": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27116": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27117": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27118": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27119": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27120": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27121": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27995": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27996": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30012": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30013": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30130": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30137": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30145": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30152": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30177": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30187": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30192": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31003": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31004": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31031": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31080": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31084": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50085": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50216": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50527": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50801": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50802": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50803": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50804": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50813": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50814": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50815": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50816": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50817": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50818": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50819": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50820": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50821": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50822": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50823": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50824": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50825": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50826": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70011": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70012": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70013": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70020": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70056": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70201": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70202": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70203": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70204": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70205": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70206": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70207": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70208": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71035": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71101": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71102": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71108": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71153": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"72723": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"72724": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"72725": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"72726": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"72727": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"72728": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"72729": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"72730": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"76000": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"76003": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"76004": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"76005": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"76012": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"76017": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"76018": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"76020": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"76021": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"76022": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			}
+		}
+	},
+	"scrolls__pages": {
+		"name": {
+			"ru": "Свитки и страницы"
+		},
+		"icons": {
+			"22000": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"25000": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"25040": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27988": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30001": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30007": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30051": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30120": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30121": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30122": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30123": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30124": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30125": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30126": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30127": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30128": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30129": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30131": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30142": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30148": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30150": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30168": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30181": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30301": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30302": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30323": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31002": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31009": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31012": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31024": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31065": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50003": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50027": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50052": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50067": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50068": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50116": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50263": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50264": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50307": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50308": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50309": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50310": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"52701": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"60002": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70039": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70101": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71001": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71002": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71003": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71032": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71054": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71055": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71095": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71100": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71103": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71104": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71105": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71106": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71109": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71112": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71122": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71173": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71174": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"76001": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"76009": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"76016": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"76019": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"80014": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"80015": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"80016": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"80017": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"dragonticket": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			}
+		}
+	},
+	"ui_elements": {
+		"name": {
+			"ru": "Элементы интерфейса"
+		},
+		"icons": {
+			"scroll_close": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"scroll_open": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"slot_disabled": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"slot_normal": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			}
+		}
+	},
+	"ui_slots": {
+		"name": {
+			"ru": "Содержимое слотов интерфейса"
+		},
+		"icons": {
+			"angry": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"attractive": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"banter": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"cheerup": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"congratulation": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"dance1": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"dance2": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"dance3": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"dance4": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"dance5": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"dance6": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"dance7": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"dance8": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"deck1_1": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"deck1_2": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"deck1_3": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"deck2_1": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"deck2_2": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"deck2_3": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"dragonsoul_button_01": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"dragonsoul_button_02": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"dragonsoul_button_03": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"forgive": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"itemmallb": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"joy": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"mall_button_01": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"mall_button_02": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"mall_button_03": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"paystatus_blue": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"paystatus_red": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"paystatus_white": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"sad": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"shy": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			}
+		}
+	},
+	"other": {
+		"name": {
+			"ru": "Остальные предметы"
+		},
+		"icons": {
+			"100100": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"100200": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"100300": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"100400": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"100500": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27124": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27600": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27610": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27800": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27801": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27987": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27989": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"27997": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30005": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30011": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30015": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30017": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30018": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30019": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30020": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30030": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30031": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30032": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30033": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30034": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30035": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30039": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30041": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30044": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30048": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30049": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30050": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30052": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30054": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30062": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30065": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30091": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30102": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30140": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30155": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30157": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30159": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30166": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30174": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30183": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30189": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30194": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30201": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30255": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30256": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30257": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30265": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30266": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30267": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30268": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30269": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30312": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30316": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30319": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30320": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30322": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30327": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30329": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30332": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30500": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30501": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30502": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30503": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30504": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30505": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30506": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30507": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30508": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30509": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30510": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30511": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30512": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30513": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30514": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30515": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30516": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30517": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30518": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30519": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30520": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30522": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30523": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30554": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30555": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30556": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30557": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30558": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30559": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30560": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30561": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30562": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30563": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30564": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30565": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30566": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30567": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30568": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30569": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30570": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30571": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30572": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30573": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30574": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30575": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30576": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30577": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30578": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30579": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30580": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30581": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30582": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30583": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30584": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30585": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"30586": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31020": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31022": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31023": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31025": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31033": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31034": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31042": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31043": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31046": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31055": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31056": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31058": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31068": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31069": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31070": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31072": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31082": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31088": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31090": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"31092": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50001": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50010": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50038": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50039": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50040": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50042": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50051": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50089": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50096": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50100": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50101": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50102": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50107": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50108": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50265": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"50512": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"53022": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"53226": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"53227": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70001": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70002": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70008": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70010": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70015": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70021": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70023": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70024": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70026": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70028": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70029": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70030": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70031": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70032": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70033": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70034": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70036": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70038": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70040": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70041": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70043": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70044": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70045": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70048": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70051": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70104": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70105": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70106": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"70107": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71011": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71018": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71019": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71020": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71027": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71028": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71029": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71030": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71044": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71045": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71051": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71052": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71057": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71080": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71083": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71084": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71085": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71096": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71111": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71113": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71151": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71152": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71178": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"71179": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"72502": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"76002": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"76006": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"76007": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"76013": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"76014": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"76015": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"76023": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"76024": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"90009": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"90011": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"90012": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			}
+		}
+	}
+}

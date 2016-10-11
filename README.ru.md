@@ -99,17 +99,17 @@
 
 ## Использование иконок
 
-Например, чтобы подключить иконку [00010.png](https://raw.githubusercontent.com/terron-kun/metin2-icons/master/png/00010.png), используйте такую ссылку:
+Например, примерно так можно подключить иконку [00010.png](https://raw.githubusercontent.com/terron-kun/metin2-icons/master/png/00010.png) на сайт:
 
-````
-https://raw.githubusercontent.com/terron-kun/metin2-icons/master/png/00010.png
+````html
+<img src="https://raw.githubusercontent.com/terron-kun/metin2-icons/master/png/00010.png" alt="00010.png">
 ````
 
 Получить список всех иконок вы можете объединив все объекты `icons` в один большой объект.
 
 ## Контрибьютинг
 
-Про контрибьютинг читайте тут: [contributing.ru.md](/contributing.ru.md). Если у вас есть вопросы на любые темы, касающиеся данного репозитория, смело создавайте [Issue](https://github.com/terron-kun/metin2-icons/issues) с пометкой *Question*.
+Про контрибьютинг читайте тут: [contributing.ru.md](/contributing.ru.md). Если у вас есть вопросы на любые темы, касающиеся данного репозитория, смело создавайте [Issue](https://github.com/terron-kun/metin2-icons/issues) с пометкой *question*.
 
 ## Лицензия
 
