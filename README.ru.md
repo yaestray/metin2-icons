@@ -18,7 +18,7 @@
 
 ## manifest.json
 
-Файл [manifest.json](/manifest.json) содержит в себе JSON-массив с отсортированными по категориям иконками. Перед тем, как читать дальше, ознакомьтесь со структурой файла. Визуализированную структуру файла вы можете посмотреть тут: [metin2-tools-lith.pw/icons/manifest](https://metin2-tools-lith.pw/icons/manifest)
+Файл [manifest.json](/manifest.json) содержит в себе JSON-массив с отсортированными по категориям иконками. Перед тем, как читать дальше, ознакомьтесь со структурой файла. Визуализированную структуру файла вы можете посмотреть тут: [metin2-tools-lith.pw/client-icons/manifest](https://metin2-tools-lith.pw/client-icons/manifest)
 
 ### Список категорий
 
