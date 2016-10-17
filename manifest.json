@@ -4,6 +4,235 @@
 			"ru": "Одноручные мечи"
 		},
 		"icons": {
+			"__terron-kun_10": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"__terron-kun_11": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"__terron-kun_31": {
+				"names": {
+					"ru": [
+						"Гооар"
+					]
+				},
+				"width": 32,
+				"height": 64
+			},
+			"__terron-kun_32": {
+				"names": {
+					"ru": [
+						"Стингер"
+					]
+				},
+				"width": 32,
+				"height": 64
+			},
+			"__terron-kun_34": {
+				"names": {
+					"ru": [
+						"Ассайл"
+					]
+				},
+				"width": 32,
+				"height": 64
+			},
+			"__terron-kun_39": {
+				"names": {
+					"ru": [
+						"Миррдин"
+					]
+				},
+				"width": 32,
+				"height": 64,
+				"icon_author": {
+					"github": "terron-kun"
+				}
+			},
+			"__terron-kun_46": {
+				"names": {
+					"ru": [
+						"Сатори"
+					]
+				},
+				"width": 32,
+				"height": 64
+			},
+			"__terron-kun_47": {
+				"names": {
+					"ru": [
+						"Ксуллукс"
+					]
+				},
+				"width": 32,
+				"height": 64
+			},
+			"__terron-kun_51": {
+				"names": {
+					"ru": [
+						"Дайнслэйф"
+					]
+				},
+				"width": 32,
+				"height": 64,
+				"icon_author": {
+					"github": "terron-kun"
+				}
+			},
+			"__terron-kun_54": {
+				"names": {
+					"ru": [
+						"Транкера"
+					]
+				},
+				"width": 32,
+				"height": 64,
+				"icon_author": {
+					"github": "terron-kun"
+				}
+			},
+			"__terron-kun_60": {
+				"names": {
+					"ru": [
+						"Меч из черных корней"
+					]
+				},
+				"width": 32,
+				"height": 64
+			},
+			"__terron-kun_61": {
+				"names": {
+					"ru": [
+						"Проклятый меч дьявола"
+					]
+				},
+				"width": 32,
+				"height": 64
+			},
+			"__terron-kun_67": {
+				"names": {
+					"ru": [
+						"Краус"
+					]
+				},
+				"width": 32,
+				"height": 64
+			},
+			"__terron-kun_68": {
+				"names": {
+					"ru": [
+						"Гинт Геко"
+					]
+				},
+				"width": 32,
+				"height": 64
+			},
+			"__terron-kun_106": {
+				"names": {
+					"ru": [
+						"Тюрвинг"
+					]
+				},
+				"width": 32,
+				"height": 64
+			},
+			"__terron-kun_107": {
+				"names": {
+					"ru": [
+						"Адамантиевый меч"
+					]
+				},
+				"width": 32,
+				"height": 64
+			},
+			"__terron-kun_113": {
+				"names": {
+					"ru": [
+						"Каладборг"
+					]
+				},
+				"width": 32,
+				"height": 64
+			},
+			"__terron-kun_114": {
+				"names": {
+					"ru": [
+						"Тисона"
+					]
+				},
+				"width": 32,
+				"height": 64
+			},
+			"__terron-kun_120": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"__terron-kun_121": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"__terron-kun_127": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"__terron-kun_128": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"__terron-kun_132": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"__terron-kun_133": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"__terron-kun_140": {
+				"names": {
+					"ru": [
+						"Меч-конфета"
+					]
+				},
+				"width": 32,
+				"height": 64
+			},
+			"__terron-kun_141": {
+				"names": {
+					"ru": [
+						"Рождественский меч"
+					]
+				},
+				"width": 32,
+				"height": 64
+			},
+			"__terron-kun_142": {
+				"names": {
+					"ru": [
+						"Меч самурая"
+					]
+				},
+				"width": 32,
+				"height": 64
+			},
+			"__terron-kun_143": {
+				"names": {
+					"ru": [
+						"Меч принца"
+					]
+				},
+				"width": 32,
+				"height": 64
+			},
 			"00010": {
 				"names": {
 					"ru": [
@@ -178,6 +407,118 @@
 			"ru": "Двуручные мечи"
 		},
 		"icons": {
+			"__terron-kun_12": {
+				"names": {},
+				"width": 32,
+				"height": 96
+			},
+			"__terron-kun_35": {
+				"names": {
+					"ru": [
+						"Кродерг"
+					]
+				},
+				"width": 32,
+				"height": 96
+			},
+			"__terron-kun_44": {
+				"names": {
+					"ru": [
+						"Кумсварден"
+					]
+				},
+				"width": 32,
+				"height": 96
+			},
+			"__terron-kun_45": {
+				"names": {},
+				"width": 32,
+				"height": 96
+			},
+			"__terron-kun_48": {
+				"names": {
+					"ru": [
+						"Рагнарек"
+					]
+				},
+				"width": 32,
+				"height": 96,
+				"icon_author": {
+					"github": "terron-kun"
+				}
+			},
+			"__terron-kun_52": {
+				"names": {
+					"ru": [
+						"Альтеклер"
+					]
+				},
+				"width": 32,
+				"height": 96,
+				"icon_author": {
+					"github": "terron-kun"
+				}
+			},
+			"__terron-kun_59": {
+				"names": {},
+				"width": 32,
+				"height": 96
+			},
+			"__terron-kun_66": {
+				"names": {
+					"ru": [
+						"Свежеватель Душ"
+					]
+				},
+				"width": 32,
+				"height": 96
+			},
+			"__terron-kun_105": {
+				"names": {
+					"ru": [
+						"Адамантиевая коса"
+					]
+				},
+				"width": 32,
+				"height": 96
+			},
+			"__terron-kun_112": {
+				"names": {
+					"ru": [
+						"Кроцеа Морс"
+					]
+				},
+				"width": 32,
+				"height": 96
+			},
+			"__terron-kun_119": {
+				"names": {},
+				"width": 32,
+				"height": 96
+			},
+			"__terron-kun_126": {
+				"names": {},
+				"width": 32,
+				"height": 96
+			},
+			"__terron-kun_139": {
+				"names": {
+					"ru": [
+						"Рождественская метла"
+					]
+				},
+				"width": 32,
+				"height": 96
+			},
+			"__terron-kun_148": {
+				"names": {
+					"ru": [
+						"Восточный клинок"
+					]
+				},
+				"width": 32,
+				"height": 96
+			},
 			"03000": {
 				"names": {},
 				"width": 32,
@@ -315,6 +656,141 @@
 			"ru": "Кинжалы"
 		},
 		"icons": {
+			"__terron-kun_8": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"__terron-kun_30": {
+				"names": {
+					"ru": [
+						"Ангуирель"
+					]
+				},
+				"width": 32,
+				"height": 64
+			},
+			"__terron-kun_37": {
+				"names": {
+					"ru": [
+						"Кинжал Рудры"
+					]
+				},
+				"width": 32,
+				"height": 32,
+				"icon_author": {
+					"github": "terron-kun"
+				}
+			},
+			"__terron-kun_42": {
+				"names": {
+					"ru": [
+						"Клинок Белой Чакры"
+					]
+				},
+				"width": 32,
+				"height": 32
+			},
+			"__terron-kun_49": {
+				"names": {
+					"ru": [
+						"Фламберж"
+					]
+				},
+				"width": 32,
+				"height": 64,
+				"icon_author": {
+					"github": "terron-kun"
+				}
+			},
+			"__terron-kun_58": {
+				"names": {
+					"ru": [
+						"Клинок летучей мыши"
+					]
+				},
+				"width": 32,
+				"height": 32
+			},
+			"__terron-kun_64": {
+				"names": {
+					"ru": [
+						"Теневой кинжал"
+					]
+				},
+				"width": 32,
+				"height": 32
+			},
+			"__terron-kun_92": {
+				"names": {
+					"ru": [
+						"Монохости"
+					]
+				},
+				"width": 32,
+				"height": 32,
+				"icon_author": {
+					"github": "terron-kun"
+				}
+			},
+			"__terron-kun_103": {
+				"names": {
+					"ru": [
+						"Адамантиевый клинок"
+					]
+				},
+				"width": 32,
+				"height": 32
+			},
+			"__terron-kun_110": {
+				"names": {
+					"ru": [
+						"Орна"
+					]
+				},
+				"width": 32,
+				"height": 32
+			},
+			"__terron-kun_117": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"__terron-kun_124": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"__terron-kun_134": {
+				"names": {
+					"ru": [
+						"Клык Гарма"
+					]
+				},
+				"width": 32,
+				"height": 64,
+				"icon_author": {
+					"github": "terron-kun"
+				}
+			},
+			"__terron-kun_137": {
+				"names": {
+					"ru": [
+						"Нож-конфета"
+					]
+				},
+				"width": 32,
+				"height": 32
+			},
+			"__terron-kun_144": {
+				"names": {
+					"ru": [
+						"Кинжал самурая"
+					]
+				},
+				"width": 32,
+				"height": 32
+			},
 			"01000": {
 				"names": {},
 				"width": 32,
@@ -447,6 +923,110 @@
 			"ru": "Луки"
 		},
 		"icons": {
+			"__terron-kun_9": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"__terron-kun_29": {
+				"names": {
+					"ru": [
+						"Олиусаар"
+					]
+				},
+				"width": 32,
+				"height": 64
+			},
+			"__terron-kun_36": {
+				"names": {
+					"ru": [
+						"Анзеисс"
+					]
+				},
+				"width": 32,
+				"height": 96,
+				"icon_author": {
+					"github": "terron-kun"
+				}
+			},
+			"__terron-kun_41": {
+				"names": {
+					"ru": [
+						"Бодхи"
+					]
+				},
+				"width": 32,
+				"height": 64
+			},
+			"__terron-kun_56": {
+				"names": {
+					"ru": [
+						"Проклятый лук дьявола"
+					]
+				},
+				"width": 32,
+				"height": 64
+			},
+			"__terron-kun_63": {
+				"names": {
+					"ru": [
+						"Гериес"
+					]
+				},
+				"width": 32,
+				"height": 64
+			},
+			"__terron-kun_102": {
+				"names": {
+					"ru": [
+						"Адамантиевый лук"
+					]
+				},
+				"width": 32,
+				"height": 64
+			},
+			"__terron-kun_109": {
+				"names": {
+					"ru": [
+						"Беггалта"
+					]
+				},
+				"width": 32,
+				"height": 64
+			},
+			"__terron-kun_116": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"__terron-kun_123": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"__terron-kun_131": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"__terron-kun_136": {
+				"names": {
+					"ru": [
+						"Олений лук"
+					]
+				},
+				"width": 32,
+				"height": 64
+			},
+			"__terron-kun_145": {
+				"names": {
+					"ru": [
+						"Лук принца"
+					]
+				},
+				"width": 32,
+				"height": 64
+			},
 			"02000": {
 				"names": {},
 				"width": 32,
@@ -564,6 +1144,101 @@
 			"ru": "Колокольчики"
 		},
 		"icons": {
+			"__terron-kun_6": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"__terron-kun_40": {
+				"names": {
+					"ru": [
+						"Порождение мистерии"
+					]
+				},
+				"width": 32,
+				"height": 64
+			},
+			"__terron-kun_50": {
+				"names": {
+					"ru": [
+						"Вабиске"
+					]
+				},
+				"width": 32,
+				"height": 32,
+				"icon_author": {
+					"github": "terron-kun"
+				}
+			},
+			"__terron-kun_55": {
+				"names": {
+					"ru": [
+						"Черный фрукт"
+					]
+				},
+				"width": 32,
+				"height": 32
+			},
+			"__terron-kun_62": {
+				"names": {
+					"ru": [
+						"Имир"
+					]
+				},
+				"width": 32,
+				"height": 32
+			},
+			"__terron-kun_101": {
+				"names": {
+					"ru": [
+						"Адамантиевый колокол"
+					]
+				},
+				"width": 32,
+				"height": 32
+			},
+			"__terron-kun_108": {
+				"names": {
+					"ru": [
+						"Хрисаор"
+					]
+				},
+				"width": 32,
+				"height": 32
+			},
+			"__terron-kun_115": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"__terron-kun_122": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"__terron-kun_130": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"__terron-kun_135": {
+				"names": {
+					"ru": [
+						"Рождественский колокол"
+					]
+				},
+				"width": 32,
+				"height": 32
+			},
+			"__terron-kun_147": {
+				"names": {
+					"ru": [
+						"Колокол Янь"
+					]
+				},
+				"width": 32,
+				"height": 64
+			},
 			"05000": {
 				"names": {},
 				"width": 32,
@@ -661,6 +1336,117 @@
 			"ru": "Вееры"
 		},
 		"icons": {
+			"__terron-kun_7": {
+				"names": {},
+				"width": 32,
+				"height": 64
+			},
+			"__terron-kun_33": {
+				"names": {
+					"ru": [
+						"Лобера"
+					]
+				},
+				"width": 32,
+				"height": 64
+			},
+			"__terron-kun_38": {
+				"names": {
+					"ru": [
+						"Ледяной посох"
+					]
+				},
+				"width": 32,
+				"height": 64,
+				"icon_author": {
+					"github": "terron-kun"
+				}
+			},
+			"__terron-kun_43": {
+				"names": {
+					"ru": [
+						"Веер забвения"
+					]
+				},
+				"width": 32,
+				"height": 32
+			},
+			"__terron-kun_53": {
+				"names": {
+					"ru": [
+						"Крималл"
+					]
+				},
+				"width": 32,
+				"height": 32,
+				"icon_author": {
+					"github": "terron-kun"
+				}
+			},
+			"__terron-kun_57": {
+				"names": {
+					"ru": [
+						"Веер летучей мыши"
+					]
+				},
+				"width": 32,
+				"height": 32
+			},
+			"__terron-kun_65": {
+				"names": {
+					"ru": [
+						"Веер Тлеющего Дракона"
+					]
+				},
+				"width": 32,
+				"height": 32
+			},
+			"__terron-kun_104": {
+				"names": {
+					"ru": [
+						"Адамантиевый веер"
+					]
+				},
+				"width": 32,
+				"height": 32
+			},
+			"__terron-kun_111": {
+				"names": {
+					"ru": [
+						"Азот"
+					]
+				},
+				"width": 32,
+				"height": 32
+			},
+			"__terron-kun_118": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"__terron-kun_125": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"__terron-kun_138": {
+				"names": {
+					"ru": [
+						"Рождественская звезда"
+					]
+				},
+				"width": 32,
+				"height": 32
+			},
+			"__terron-kun_146": {
+				"names": {
+					"ru": [
+						"Посох Инь"
+					]
+				},
+				"width": 32,
+				"height": 64
+			},
 			"07000": {
 				"names": {},
 				"width": 32,
@@ -887,6 +1673,18 @@
 			"ru": "Специальное снаряжение"
 		},
 		"icons": {
+			"__terron-kun_100": {
+				"names": {
+					"ru": [
+						"Гаечный ключ"
+					]
+				},
+				"width": 32,
+				"height": 64,
+				"icon_author": {
+					"github": "terron-kun"
+				}
+			},
 			"27400": {
 				"names": {},
 				"width": 32,
@@ -904,6 +1702,36 @@
 			"ru": "Броня (воин)"
 		},
 		"icons": {
+			"__terron-kun_14": {
+				"names": {
+					"ru": [
+						"Доспех заката"
+					]
+				},
+				"width": 32,
+				"height": 64,
+				"icon_author": {
+					"skype": "mr.deadbeast"
+				}
+			},
+			"__terron-kun_78": {
+				"names": {
+					"ru": [
+						"Ледяной панцирь"
+					]
+				},
+				"width": 32,
+				"height": 64
+			},
+			"__terron-kun_96": {
+				"names": {
+					"ru": [
+						"Панцирь чемпиона"
+					]
+				},
+				"width": 32,
+				"height": 63
+			},
 			"11200": {
 				"names": {},
 				"width": 32,
@@ -1021,6 +1849,36 @@
 			"ru": "Броня (ниндзя)"
 		},
 		"icons": {
+			"__terron-kun_15": {
+				"names": {
+					"ru": [
+						"Одеяние заката"
+					]
+				},
+				"width": 32,
+				"height": 64,
+				"icon_author": {
+					"skype": "mr.deadbeast"
+				}
+			},
+			"__terron-kun_75": {
+				"names": {
+					"ru": [
+						"Ледяное одеяние"
+					]
+				},
+				"width": 32,
+				"height": 64
+			},
+			"__terron-kun_93": {
+				"names": {
+					"ru": [
+						"Одеяние чемпиона"
+					]
+				},
+				"width": 32,
+				"height": 64
+			},
 			"11400": {
 				"names": {},
 				"width": 32,
@@ -1148,6 +2006,36 @@
 			"ru": "Броня (сура)"
 		},
 		"icons": {
+			"__terron-kun_16": {
+				"names": {
+					"ru": [
+						"Латы заката"
+					]
+				},
+				"width": 32,
+				"height": 64,
+				"icon_author": {
+					"skype": "mr.deadbeast"
+				}
+			},
+			"__terron-kun_77": {
+				"names": {
+					"ru": [
+						"Ледяные латы"
+					]
+				},
+				"width": 32,
+				"height": 64
+			},
+			"__terron-kun_95": {
+				"names": {
+					"ru": [
+						"Латы чемпиона"
+					]
+				},
+				"width": 32,
+				"height": 64
+			},
 			"11600": {
 				"names": {},
 				"width": 32,
@@ -1270,6 +2158,36 @@
 			"ru": "Броня (шаман)"
 		},
 		"icons": {
+			"__terron-kun_17": {
+				"names": {
+					"ru": [
+						"Платье заката"
+					]
+				},
+				"width": 32,
+				"height": 64,
+				"icon_author": {
+					"skype": "mr.deadbeast"
+				}
+			},
+			"__terron-kun_76": {
+				"names": {
+					"ru": [
+						"Ледяное платье"
+					]
+				},
+				"width": 32,
+				"height": 64
+			},
+			"__terron-kun_94": {
+				"names": {
+					"ru": [
+						"Платье чемпиона"
+					]
+				},
+				"width": 32,
+				"height": 64
+			},
 			"11800": {
 				"names": {},
 				"width": 32,
@@ -1481,6 +2399,54 @@
 			"ru": "Костюмы"
 		},
 		"icons": {
+			"__terron-kun_1": {
+				"names": {
+					"ru": [
+						"Халат (белый)"
+					]
+				},
+				"width": 32,
+				"height": 64,
+				"icon_author": {
+					"github": "terron-kun"
+				}
+			},
+			"__terron-kun_72": {
+				"names": {
+					"ru": [
+						"Халат (серый)"
+					]
+				},
+				"width": 32,
+				"height": 64,
+				"icon_author": {
+					"github": "terron-kun"
+				}
+			},
+			"__terron-kun_73": {
+				"names": {
+					"ru": [
+						"Халат (зеленый)"
+					]
+				},
+				"width": 32,
+				"height": 64,
+				"icon_author": {
+					"github": "terron-kun"
+				}
+			},
+			"__terron-kun_74": {
+				"names": {
+					"ru": [
+						"Халат (розовый)"
+					]
+				},
+				"width": 32,
+				"height": 64,
+				"icon_author": {
+					"github": "terron-kun"
+				}
+			},
 			"41001": {
 				"names": {},
 				"width": 32,
@@ -2725,6 +3691,36 @@
 			"ru": "Прически и головные уборы"
 		},
 		"icons": {
+			"__terron-kun_18": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"__terron-kun_19": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"__terron-kun_20": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"__terron-kun_21": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"__terron-kun_22": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
+			"__terron-kun_23": {
+				"names": {},
+				"width": 32,
+				"height": 32
+			},
 			"45001": {
 				"names": {},
 				"width": 32,
@@ -3064,6 +4060,54 @@
 			"ru": "Щиты"
 		},
 		"icons": {
+			"__terron-kun_2": {
+				"names": {
+					"ru": [
+						"Соколиный щит (зачар.)"
+					]
+				},
+				"width": 32,
+				"height": 32,
+				"icon_author": {
+					"github": "terron-kun"
+				}
+			},
+			"__terron-kun_3": {
+				"names": {
+					"ru": [
+						"Щит тигра (зачар.)"
+					]
+				},
+				"width": 32,
+				"height": 32,
+				"icon_author": {
+					"github": "terron-kun"
+				}
+			},
+			"__terron-kun_4": {
+				"names": {
+					"ru": [
+						"Щит зуб льва (зачар.)"
+					]
+				},
+				"width": 32,
+				"height": 32,
+				"icon_author": {
+					"github": "terron-kun"
+				}
+			},
+			"__terron-kun_5": {
+				"names": {
+					"ru": [
+						"Щит чешуя дракона (зачар.)"
+					]
+				},
+				"width": 32,
+				"height": 32,
+				"icon_author": {
+					"github": "terron-kun"
+				}
+			},
 			"11976": {
 				"names": {},
 				"width": 32,
@@ -4252,6 +5296,50 @@
 			"ru": "Монеты, медали и печати"
 		},
 		"icons": {
+			"__terron-kun_24": {
+				"names": {},
+				"width": 32,
+				"height": 32,
+				"icon_author": {
+					"github": "terron-kun"
+				}
+			},
+			"__terron-kun_25": {
+				"names": {},
+				"width": 32,
+				"height": 32,
+				"icon_author": {
+					"github": "terron-kun"
+				}
+			},
+			"__terron-kun_26": {
+				"names": {},
+				"width": 32,
+				"height": 32,
+				"icon_author": {
+					"github": "terron-kun"
+				}
+			},
+			"__terron-kun_27": {
+				"names": {},
+				"width": 32,
+				"height": 32,
+				"icon_author": {
+					"github": "terron-kun"
+				}
+			},
+			"__terron-kun_129": {
+				"names": {
+					"ru": [
+						"Медаль удачи (серебряная)"
+					]
+				},
+				"width": 32,
+				"height": 32,
+				"icon_author": {
+					"github": "terron-kun"
+				}
+			},
 			"30178": {
 				"names": {},
 				"width": 32,
@@ -6216,6 +7304,18 @@
 			"ru": "Еда"
 		},
 		"icons": {
+			"__terron-kun_79": {
+				"names": {
+					"ru": [
+						"Пельмени"
+					]
+				},
+				"width": 32,
+				"height": 32,
+				"icon_author": {
+					"github": "terron-kun"
+				}
+			},
 			"30002": {
 				"names": {},
 				"width": 32,
@@ -6403,6 +7503,14 @@
 			"ru": "Руда, рафинад и драгоценности"
 		},
 		"icons": {
+			"__terron-kun_28": {
+				"names": {},
+				"width": 32,
+				"height": 32,
+				"icon_author": {
+					"github": "terron-kun"
+				}
+			},
 			"27992": {
 				"names": {},
 				"width": 32,
@@ -7496,6 +8604,26 @@
 			"ru": "Растения"
 		},
 		"icons": {
+			"__terron-kun_80": {
+				"names": {
+					"ru": [
+						"Лавр"
+					],
+					"en": [
+						"Laurel"
+					]
+				},
+				"width": 32,
+				"height": 32,
+				"icon_author": {
+					"github": "terron-kun"
+				},
+				"credits": [
+					"Guild Wars 2",
+					"ArenaNet",
+					"NCSOFT"
+				]
+			},
 			"30000": {
 				"names": {},
 				"width": 32,
@@ -7723,6 +8851,14 @@
 			"ru": "Зелья и сосуды"
 		},
 		"icons": {
+			"__terron-kun_13": {
+				"names": {},
+				"width": 32,
+				"height": 32,
+				"icon_author": {
+					"github": "terron-kun"
+				}
+			},
 			"100000": {
 				"names": {},
 				"width": 32,
@@ -8200,6 +9336,30 @@
 			"ru": "Свитки и страницы"
 		},
 		"icons": {
+			"__terron-kun_97": {
+				"names": {},
+				"width": 32,
+				"height": 32,
+				"icon_author": {
+					"github": "terron-kun"
+				}
+			},
+			"__terron-kun_98": {
+				"names": {},
+				"width": 32,
+				"height": 32,
+				"icon_author": {
+					"github": "terron-kun"
+				}
+			},
+			"__terron-kun_99": {
+				"names": {},
+				"width": 32,
+				"height": 32,
+				"icon_author": {
+					"github": "terron-kun"
+				}
+			},
 			"22000": {
 				"names": {},
 				"width": 32,
@@ -8771,6 +9931,163 @@
 			"ru": "Остальные предметы"
 		},
 		"icons": {
+			"__terron-kun_69": {
+				"names": {
+					"ru": [
+						"Флаг России"
+					]
+				},
+				"width": 32,
+				"height": 32,
+				"icon_author": {
+					"github": "terron-kun"
+				}
+			},
+			"__terron-kun_70": {
+				"names": {
+					"ru": [
+						"Георгиевская ленточка"
+					]
+				},
+				"width": 32,
+				"height": 32,
+				"icon_author": {
+					"github": "terron-kun"
+				}
+			},
+			"__terron-kun_71": {
+				"names": {},
+				"width": 32,
+				"height": 33,
+				"icon_author": {
+					"github": "terron-kun"
+				},
+				"credits": [
+					"Guild Wars 2",
+					"ArenaNet",
+					"NCSOFT"
+				]
+			},
+			"__terron-kun_81": {
+				"names": {
+					"ru": [
+						"Волшебная палочка (медная)"
+					]
+				},
+				"width": 32,
+				"height": 32,
+				"icon_author": {
+					"github": "terron-kun"
+				}
+			},
+			"__terron-kun_82": {
+				"names": {
+					"ru": [
+						"Волшебная палочка+ (медная)"
+					]
+				},
+				"width": 32,
+				"height": 32,
+				"icon_author": {
+					"github": "terron-kun"
+				}
+			},
+			"__terron-kun_84": {
+				"names": {
+					"ru": [
+						"Волшебная палочка+ (золотая)"
+					]
+				},
+				"width": 32,
+				"height": 32,
+				"icon_author": {
+					"github": "terron-kun"
+				}
+			},
+			"__terron-kun_85": {
+				"names": {
+					"ru": [
+						"Волшебная палочка (нефритовая)"
+					]
+				},
+				"width": 32,
+				"height": 32,
+				"icon_author": {
+					"github": "terron-kun"
+				}
+			},
+			"__terron-kun_86": {
+				"names": {
+					"ru": [
+						"Волшебная палочка (рубиновая)"
+					]
+				},
+				"width": 32,
+				"height": 32,
+				"icon_author": {
+					"github": "terron-kun"
+				}
+			},
+			"__terron-kun_87": {
+				"names": {
+					"ru": [
+						"Волшебная палочка (сапфировая)"
+					]
+				},
+				"width": 32,
+				"height": 32,
+				"icon_author": {
+					"github": "terron-kun"
+				}
+			},
+			"__terron-kun_88": {
+				"names": {
+					"ru": [
+						"Волшебная палочка (зачарованная)"
+					]
+				},
+				"width": 32,
+				"height": 32,
+				"icon_author": {
+					"github": "terron-kun"
+				}
+			},
+			"__terron-kun_89": {
+				"names": {
+					"ru": [
+						"Волшебная палочка (серебряная)"
+					]
+				},
+				"width": 32,
+				"height": 32,
+				"icon_author": {
+					"github": "terron-kun"
+				}
+			},
+			"__terron-kun_90": {
+				"names": {
+					"ru": [
+						"Волшебная палочка+ (серебряная)"
+					]
+				},
+				"width": 32,
+				"height": 32,
+				"icon_author": {
+					"github": "terron-kun"
+				}
+			},
+			"__terron-kun_91": {
+				"names": {
+					"ru": [
+						"Маска эмоций и туфли ветра"
+					]
+				},
+				"width": 32,
+				"height": 32,
+				"icon_author": {
+					"github": "terron-kun"
+				}
+			},
 			"100100": {
 				"names": {},
 				"width": 32,
